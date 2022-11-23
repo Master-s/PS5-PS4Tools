@@ -14,7 +14,7 @@
 
 
 # Download
-(https://github.com/Master-s/PS5-PS4Tools/releases/tag/1.0.1)
+(https://github.com/Master-s/PS5-PS4Tools/releases/)
 
 # Youtube
 https://www.youtube.com/@master_s9
